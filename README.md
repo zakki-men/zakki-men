@@ -40,7 +40,7 @@
 <br>
 
 ## 📊 My Statistik GitHub
-![zaezkyi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zakki-men)
+![zaezkyi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zakki-men&show_icons=true&theme=radical)
 
 <br>
 
