@@ -42,6 +42,8 @@
 ## 📊 My Statistik GitHub
 ![zaezkyi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zakki-men&show_icons=true&theme=ambient_gradient)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zakki-men&theme=dark)
+
 <br>
 
 <img src="https://raw.githubusercontent.com/kimmyxpow/kimmyxpow/output/snake.svg" alt="Snake animation" width="100%" />
