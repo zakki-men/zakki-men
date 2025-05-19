@@ -48,7 +48,7 @@
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zakki-men&repo=github-readme-stats)]
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zakki-men&repo=github-readme-stats)
 
 <img src="https://raw.githubusercontent.com/kimmyxpow/kimmyxpow/output/snake.svg" alt="Snake animation" width="100%" />
 
