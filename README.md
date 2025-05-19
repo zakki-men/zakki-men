@@ -40,7 +40,7 @@
 <br>
 
 <div align="center">
-  ![Statistik GitHub zaezkyi](https://github-readme-stats.vercel.app/api?username=Zakki-men)
+  ![zaezkyi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zakki-men)
 </div>
 
 <br>
