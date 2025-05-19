@@ -40,7 +40,7 @@
 <br>
 
 <div align="center">
-  ![zaezkyi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zakki-men)
+  ![zaezkyi's GitHub Stats](https://www.google.com/url?sa=E&source=gmail&q=https://github-readme-stats.vercel.app/api?username=Zakki-men)
 </div>
 
 <br>
