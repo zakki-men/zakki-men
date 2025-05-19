@@ -3,7 +3,7 @@
 ## 🌐 Socials:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,gmail,instagram,twitter,whatsapp,tiktok,telegram," />
+    <img src="https://skillicons.dev/icons?i=linkedin,discord,gmail,instagram,twitter" />
   </a>
 </p>
 ## Skillss
