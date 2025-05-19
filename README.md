@@ -44,6 +44,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zakki-men&theme=ambient_gradient)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zakki-men&layout=compact&theme=ambient_gradient)
+
 <br>
 
 <img src="https://raw.githubusercontent.com/kimmyxpow/kimmyxpow/output/snake.svg" alt="Snake animation" width="100%" />
