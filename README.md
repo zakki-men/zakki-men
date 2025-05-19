@@ -37,8 +37,6 @@
 <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </div>
 
-<br>
-
 ## 📊 My Statistik GitHub
 <div align="center">
   ![zaezkyi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zakki-men&show_icons=true&theme=ambient_gradient)
@@ -47,7 +45,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zakki-men&theme=ambient_gradient)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zakki-men&layout=compact&theme=ambient_gradient)
-<br>
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Zakki-men&theme=dracula)
 
