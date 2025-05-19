@@ -77,6 +77,12 @@
 ###
 <img src="https://raw.githubusercontent.com/Zakki-men/Zakki-men/output/snake.svg" alt="Snake animation" />
 
+<div align="left">
+  <a href="https://fatkhurrhn.vercel.app/">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zakki-men&theme=github-compact&radius=16" height="auto" alt="by Zakki-men"/>
+</a>
+</div>
+
 ###
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
 <p align="center">Terima Kasih Semuanya</p>
@@ -85,9 +91,3 @@
 <span style="font-size: 0.8em; color: #888;">
   <i>Catatan: Bahasa yang ditampilkan adalah yang paling dominan dalam proyek publik saya dan merupakan bahasa yang saya sukai. Namun, ini tidak sepenuhnya mencerminkan keseluruhan keahlian dan keterampilan saya dalam proyek-proyek publik yang saya buat.</i>
 </span>
-
-<div align="left">
-  <a href="https://fatkhurrhn.vercel.app/">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zakki-men&theme=github-compact&radius=16" height="auto" alt="by Zakki-men"/>
-</a>
-</div>
