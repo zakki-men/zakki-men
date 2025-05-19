@@ -6,7 +6,8 @@
     <img src="https://skillicons.dev/icons?i=linkedin,discord,gmail,instagram,twitter" />
   </a>
 </p>
-## Skillss
+
+## 🛠️ Skillss
 <div align="center">
   <p><b><- Languages -></b></p>
 </div>
