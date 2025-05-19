@@ -37,7 +37,11 @@
 <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </div>
 
+<br>
+
 ![Zakki-men GitHub stats](https://github-readme-stats.vercel.app/api?username=Zakki-men)
+
+<br>
 
 <img src="https://raw.githubusercontent.com/kimmyxpow/kimmyxpow/output/snake.svg" alt="Snake animation" width="100%" />
 
