@@ -51,15 +51,16 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Zakki-men&theme=dracula)
 
 ###
+<img src="https://raw.githubusercontent.com/Zakki-men/Zakki-men/output/snake.svg" alt="Snake animation" />
+
+###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zakki-men/Zakki-men/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zakki-men/Zakki-men/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Zakki-men/Zakki-men/output/pacman-contribution-graph.svg">
 </picture>
-<img src="?theme=dark&spin=true&scan=true&rainbow=true" alt="Widget with the current Spotify song"  />
 
 ###
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
 <p align="center">Terima kasih Gaes</p>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
-
