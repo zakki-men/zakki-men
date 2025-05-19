@@ -71,10 +71,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zakki-men/Zakki-men/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Zakki-men/Zakki-men/output/pacman-contribution-graph.svg">
 </picture>
+<img src="?theme=dark&spin=true&scan=true&rainbow=true" alt="Widget with the current Spotify song"  />
 
-###
-<div align="center">
-  <img src="?theme=dark&spin=true&scan=true&rainbow=true" alt="Widget with the current Spotify song"  />
-</div>
 
 ###
