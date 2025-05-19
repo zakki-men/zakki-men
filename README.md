@@ -40,9 +40,7 @@
 <br>
 
 
-![Zakki-men Stars](https://github-readme-stats.vercel.app/api?username=Zakki-men&hide=commits,prs,issues,contribs)
-![Zakki-men Commits](https://github-readme-stats.vercel.app/api?username=Zakki-men&hide=stars,prs,issues,contribs)
-
+![Zakki-men GitHub stats](https://github-readme-stats.vercel.app/api?username=Zakki-men&layout=compact)
 
 <br>
 
