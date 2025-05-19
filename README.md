@@ -56,9 +56,9 @@
 
 ###
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
-<p align="center">Terima kasih Gaes</p>
+<p align="center">Terima Kasih Semuanya</p>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
 
-<p style="text-align: justify;">
-  Saya menampilkan bahasa-bahasa ini karena ketertarikan dan antusiasme saya dalam mempelajarinya, dan saya sering menggunakannya untuk proyek-proyek eksplorasi di publik. Namun, saya menyadari bahwa pengalaman dan keahlian saya dalam mengaplikasikannya pada proyek-proyek yang lebih kompleks masih terbatas, dan saya sangat terbuka untuk terus belajar dan berkembang.
-</p>
+<div style="font-size: 0.8em; color: #888;">
+  Catatan: Bahasa yang ditampilkan adalah yang paling dominan dalam proyek publik saya dan merupakan bahasa yang saya sukai. Namun, ini tidak sepenuhnya mencerminkan keseluruhan keahlian dan keterampilan saya dalam proyek-proyek publik yang saya buat.
+</div>
