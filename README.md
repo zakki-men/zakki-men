@@ -59,4 +59,6 @@
 <p align="center">Terima kasih Gaes</p>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
 
-> Catatan = Saya menampilkan bahasa-bahasa ini karena ketertarikan dan antusiasme saya dalam mempelajarinya, dan saya sering menggunakannya untuk proyek-proyek eksplorasi di publik. Namun, saya menyadari bahwa pengalaman dan keahlian saya dalam mengaplikasikannya pada proyek-proyek yang lebih kompleks masih terbatas, dan saya sangat terbuka untuk terus belajar dan berkembang. <
+<p style="text-align: justify;">
+  Saya menampilkan bahasa-bahasa ini karena ketertarikan dan antusiasme saya dalam mempelajarinya, dan saya sering menggunakannya untuk proyek-proyek eksplorasi di publik. Namun, saya menyadari bahwa pengalaman dan keahlian saya dalam mengaplikasikannya pada proyek-proyek yang lebih kompleks masih terbatas, dan saya sangat terbuka untuk terus belajar dan berkembang.
+</p>
