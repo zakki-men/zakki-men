@@ -39,7 +39,7 @@
 
 <br>
 
-![Zakki-men GitHub stats](https://github-readme-stats.vercel.app/api?username=Zakki-men)
+![Zakki-men GitHub stats](https://github-readme-stats.vercel.app/api?username=Zakki-men&layout=compact)
 
 <br>
 
