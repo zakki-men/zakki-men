@@ -1,4 +1,4 @@
-![Zaezkyi-man](Foto-Header/github-header-image.jpg )
+![Zaezkyi-man](Gif-Header/github-header.gif)
 
 ## 🌐 Socials:
 <p align="center">
