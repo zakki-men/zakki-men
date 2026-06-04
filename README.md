@@ -108,22 +108,16 @@
 ## 📊 My GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zakki-men&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zakki-men&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=Zakki-men&theme=dracula&hide_border=false" height="150" alt="streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zakki-men&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 <br>
 
 ### 🏆 My Trophy
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Zakki-men&theme=dracula)
-
-<img src="https://raw.githubusercontent.com/Zakki-men/Zakki-men/output/snake.svg" alt="Snake animation" />
-
-<div align="left">
-  <a href="https://fatkhurrhn.vercel.app/">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zakki-men&theme=github-compact&radius=16" height="auto" alt="by Zakki-men"/>
-  </a>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Zakki-men&theme=dracula&no-frame=false&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
