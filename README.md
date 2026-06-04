@@ -109,7 +109,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Zakki-men&theme=dracula&hide_border=false" height="150" alt="streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zakki-men&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zakki-men&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&cache_seconds=1800" height="150" alt="languages graph" />
 </div>
 
 <br>
@@ -117,9 +117,8 @@
 ### 🏆 My Trophy
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zakki-men&theme=dracula&no-frame=false&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Zakki-men&theme=dracula&no-frame=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
 </div>
-
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
