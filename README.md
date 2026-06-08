@@ -2,6 +2,12 @@
   <img src="Gif-Header/github-header.gif" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zakki-men&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
 ## 🌐 Socials
 
 <p align="center">
@@ -120,11 +126,35 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Zakki-men&theme=dracula&no-frame=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
+---
+
+### 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zakki-men&theme=dracula&hide_border=false" alt="Activity Graph" width="100%"/>
+</div>
+
+---
+
+### 💬 Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Dev Quote" />
+</div>
+
+---
+
 ### 🐍 My Contributions
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zakki-men/zakki-men/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zakki-men/zakki-men/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zakki-men/zakki-men/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zakki-men/zakki-men/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
+
+---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
 <p align="center">Terima Kasih Semuanya 🙏</p>
