@@ -142,7 +142,7 @@
 
 > *"Jika kamu mempunyai masalah dengan kode apapun, selesaikan — bukan pergi meninggalkan kode itu untuk kode yang baru."*
 >
-> **— zaezkyi**
+> **— zaezkyi —**
 
 </div>
 
