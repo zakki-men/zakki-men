@@ -119,7 +119,12 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Zakki-men&theme=dracula&no-frame=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
 </div>
----
+
+### 🐍 My Contributions
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zakki-men/zakki-men/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1200">
 <p align="center">Terima Kasih Semuanya 🙏</p>
