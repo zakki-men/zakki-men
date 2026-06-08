@@ -139,7 +139,11 @@
 ### 💬 Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Dev Quote" />
+
+> *"Jika kamu mempunyai masalah dengan kode apapun, selesaikan — bukan pergi meninggalkan kode itu untuk kode yang baru."*
+>
+> **— zaezkyi**
+
 </div>
 
 ---
